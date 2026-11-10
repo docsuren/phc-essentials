@@ -1,0 +1,37 @@
+{
+ "name": "Public Health Calculator: The Essentials",
+ "short_name": "PHC Essentials",
+ "description": "Sixty public health calculations with formulas, worked examples, colour-zone interpretation, growth charts and Word or PDF reports. Created and compiled by Dr Surendran Venkataraman and Dr Angusubalakshmi Rajasivachalam.",
+ "start_url": "./index.html",
+ "scope": "./",
+ "display": "standalone",
+ "orientation": "any",
+ "background_color": "#F3F6F7",
+ "theme_color": "#0B6E8A",
+ "lang": "en-IN",
+ "categories": [
+  "medical",
+  "health",
+  "education"
+ ],
+ "icons": [
+  {
+   "src": "icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "maskable-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "maskable"
+  }
+ ]
+}
