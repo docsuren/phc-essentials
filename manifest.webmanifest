@@ -1,7 +1,7 @@
 {
  "name": "Public Health Calculator: The Essentials",
  "short_name": "PHC Essentials",
- "description": "Sixty public health calculations with formulas, worked examples, colour-zone interpretation, growth charts and Word or PDF reports. Created and compiled by Dr Surendran Venkataraman and Dr Angusubalakshmi Rajasivachalam.",
+ "description": "Sixty public health calculations with formulas, worked examples, colour-zone interpretation, growth charts and Word or PDF reports. A WizeLabs initiative of WizeLabs Health. Created and compiled by Dr Surendran Venkataraman and Dr Angusubalakshmi Rajasivachalam.",
  "start_url": "./index.html",
  "scope": "./",
  "display": "standalone",

@@ -1,4 +1,5 @@
-Public Health Calculator: The Essentials, website version 1.1
+Public Health Calculator: The Essentials, website version 1.2
+A WizeLabs initiative of WizeLabs Health.
 Created and compiled by Dr Surendran Venkataraman and Dr Angusubalakshmi Rajasivachalam. (c) 2026. All rights reserved.
 
 Upload every file in this folder to the top level of a GitHub repository named phc-essentials, then turn on GitHub Pages
